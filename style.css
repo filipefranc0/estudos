@@ -1,0 +1,18 @@
+body {
+    background-color: gray;
+    color: blue;
+    font: cursive 18pt arial;
+    align-items: center;
+    text-align: center;
+    padding: auto 0;
+    margin: auto 0;
+    
+}
+#text
+{
+    margin: 0px auto;
+    width: 30px;
+    display: block;
+    align-items: center;
+    
+}
